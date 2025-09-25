@@ -35,13 +35,13 @@ Responsive design for desktop and mobile
 
 🛠 Tech Stack
 
-Frontend: HTML, CSS, JavaScript (React / Vanilla JS depending on implementation)
+Frontend: React.js, HTML, CSS, JavaScript
 
-Backend: Node.js / Express.js or Django / Flask (depending on repo setup)
+Backend: Node.js, Express.js
 
-Database: MySQL / MongoDB / PostgreSQL
+Database: MongoDB
 
-Authentication: JWT / Firebase / Django Auth
+Authentication: JWT / Firebase Auth
 
 Version Control: Git & GitHub
 
@@ -56,19 +56,22 @@ git clone https://github.com/Varhneyprachi/MediSync.git
 cd MediSync
 
 🔹 Backend Setup
+# Go to backend folder
+cd backend
+
 # Install dependencies
-npm install   # (or pip install -r requirements.txt if Python backend)
+npm install
 
-# Set up environment variables
-# Example (.env file)
-# DB_URL=your_database_url
-# SECRET_KEY=your_secret_key
+# Set up environment variables (.env file example)
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
 
-# Run database migrations (if applicable)
-npm run migrate   # or python manage.py migrate
+# Run server
+npm start
 
 🔹 Frontend Setup
-# Navigate to frontend folder if separated
+# Open new terminal & go to frontend folder
 cd frontend
 
 # Install frontend dependencies
@@ -122,8 +125,3 @@ GitHub: @Varhneyprachi
 Project Repo: MediSync
 
 ✨ MediSync – Simplifying Healthcare, One Click at a Time! ✨
- 
-
-
-
-
