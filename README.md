@@ -36,11 +36,11 @@ It provides an easy-to-use interface for **patients, doctors, and administrators
 - **Version Control:** Git & GitHub  
 
 ---
-🌐 Deployment
+## 🌐 Deployment
 
 The application is deployed and accessible here:
 
-🔗 Live Demo: https://medi-sync-wwy7.vercel.app/
+### 🔗 Live Demo: https://medi-sync-wwy7.vercel.app/
 ---
 
 ## ⚙️ Installation
