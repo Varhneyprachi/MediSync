@@ -43,32 +43,29 @@ It provides an easy-to-use interface for **patients, doctors, and administrators
 ```bash
 git clone https://github.com/Varhneyprachi/MediSync.git
 cd MediSync
-2. Backend Setup
-bash
-Copy code
+```
+---
+### 2. Backend Setup
+```bash
+
 cd backend
+```
+---
 
 # Install dependencies
+```bash
 npm install
+```
+---
 
 # Create .env file with:
 # MONGO_URI=your_mongo_connection_string
 # JWT_SECRET=your_secret_key
 # PORT=5000
+---
 
-# Start backend server
-npm start
-3. Frontend Setup
-bash
-Copy code
-cd frontend
 
-# Install frontend dependencies
-npm install
-
-# Start frontend server
-npm start
-🚀 Usage
+## 🚀 Usage
 Register or log in as a patient, doctor, or admin
 
 Patients can browse doctors and book appointments
@@ -76,34 +73,35 @@ Patients can browse doctors and book appointments
 Doctors can manage appointments and patient records
 
 Admins can manage doctors, patients, and hospital operations
+---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 Fork this repository
 
 Create a feature branch:
 
-bash
-Copy code
+```bash
+
 git checkout -b feature/YourFeature
 Commit your changes:
+```
 
-bash
+```bash
 Copy code
 git commit -m "Add YourFeature"
 Push to your branch:
+```
 
-bash
-Copy code
-git push origin feature/YourFeature
-Open a Pull Request
+---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
+---
 
-📬 Contact
+## 📬 Contact
 GitHub: @Varhneyprachi
 
 Project Repo: MediSync
