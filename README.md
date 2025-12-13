@@ -44,7 +44,7 @@ The application is deployed and accessible here:
 ---
 ## 📸 Screenshots
 
-![MediSync Home Page](Hospital-management-system-MERN-stack-master%20(1)/screenshots/MS.png)
+![MediSync Home Page](Hospital-management-system-MERN-stack-master%20(1)/Hospital-management-system-MERN-stack-master/screenshots/MS.png)
 ---
 
 
