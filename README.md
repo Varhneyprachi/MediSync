@@ -36,6 +36,12 @@ It provides an easy-to-use interface for **patients, doctors, and administrators
 - **Version Control:** Git & GitHub  
 
 ---
+🌐 Deployment
+
+The application is deployed and accessible here:
+
+🔗 Live Demo: https://medi-sync-wwy7.vercel.app/
+---
 
 ## ⚙️ Installation
 
@@ -52,16 +58,18 @@ cd backend
 ```
 ---
 
-# Install dependencies
+### 3. Install dependencies
 ```bash
 npm install
 ```
 ---
 
-# Create .env file with:
-# MONGO_URI=your_mongo_connection_string
-# JWT_SECRET=your_secret_key
-# PORT=5000
+### Create .env file with:
+```bash
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+```
 ---
 
 
