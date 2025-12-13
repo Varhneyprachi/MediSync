@@ -43,6 +43,9 @@ The application is deployed and accessible here:
 ### 🔗 Live Demo: https://medi-sync-wwy7.vercel.app/
 ---
 ## 📸 Screenshots
+
+### 🏥 MediSync Home Page
+
 ![MediSync Home Page](Hospital-management-system-MERN-stack-master/screenshots/MS.png)
 ---
 
