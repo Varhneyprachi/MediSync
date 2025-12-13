@@ -42,6 +42,8 @@ The application is deployed and accessible here:
 
 ### 🔗 Live Demo: https://medi-sync-wwy7.vercel.app/
 ---
+## 📸 Screenshots
+---
 
 ## ⚙️ Installation
 
