@@ -7,7 +7,7 @@ It provides an easy-to-use interface for **patients, doctors, and administrators
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Content
 - [✨ Features](#-features)  
 - [🛠 Tech Stack](#-tech-stack)  
 - [⚙️ Installation](#-installation)  
